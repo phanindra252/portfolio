@@ -16,7 +16,7 @@ const Hero = () => {
           <span className="text-blue-500"> BHOGINENI</span>
           <span className="text-blue-500"> .</span>
         </h1>
-        <p className="text-lg md:text-2xl mt-4">FRONTEND DEVELOPER</p>
+        <p className="text-lg md:text-2xl mt-4">FULLSTACK DEVELOPER</p>
 
         {/* Download Resume Button */}
         <a

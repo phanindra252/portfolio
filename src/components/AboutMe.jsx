@@ -21,13 +21,14 @@ const AboutMe = () => {
           {/* Text Section */}
           <div className="space-y-6">
             <p className="text-gray-600 leading-relaxed">
-              I am a passionate and detail-oriented Frontend Developer with a
+              I am a passionate and detail-oriented Full stack Developer with a
               strong foundation in web development technologies, including HTML,
-              CSS, JavaScript, and React. As a recent graduate, I have honed my
-              skills through various personal and academic projects, building
-              responsive and user-friendly websites. I enjoy translating design
-              concepts into functional code, ensuring that web applications are
-              both visually appealing and highly interactive.
+              CSS, JavaScript, React, Node.js, Express.js and PostgreSQL. As a
+              graduate, I have honed my skills through various personal and
+              academic projects, building responsive and user-friendly websites.
+              I enjoy translating design concepts into functional code, ensuring
+              that web applications are both visually appealing and highly
+              interactive.
             </p>
 
             <p className="text-gray-600 leading-relaxed">

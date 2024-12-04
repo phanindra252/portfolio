@@ -3,13 +3,19 @@ const projects = [
     title: "Portfolio Website",
     description:
       "A personal portfolio website showcasing my projects and skills.",
-    link: "#",
+    link: "http://localhost:5173/portfolio/",
   },
   {
     title: "Consultancy Website",
     description:
       "A responsive IT consulting website built with Tailwind CSS and React. ",
-    link: "#",
+    link: "https://phanindra252.github.io/rbslpgml-react/",
+  },
+  {
+    title: "Job listings site",
+    description:
+      "Developed a job listing platform with CRUD functionality using the PERN stack, allowing users to explore, apply, and manage job listings. ",
+    link: "https://jobportal-1-vkqv.onrender.com/",
   },
 ];
 
