@@ -25,7 +25,7 @@ const Hero = () => {
   className="mt-8 px-6 py-3 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600 transition" 
   width="600" 
   height="800">
-  <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="/ravi_resume.pdf">Download PDF</a>.</p>
+  <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="/Phanindra_resume.pdf">Download PDF</a>.</p>
 </object>
 
       </div>
