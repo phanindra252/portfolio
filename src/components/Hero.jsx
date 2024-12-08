@@ -20,7 +20,7 @@ const Hero = () => {
 
         {/* Download Resume Button */}
         <a
-          href="/B.Phanindra_resume.pdf"
+          href="/Phanindra_resume.pdf"
           className="mt-8 px-6 py-3 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600 transition">
           Download Resume
         </a>
