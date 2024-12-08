@@ -21,7 +21,7 @@ const Hero = () => {
         {/* Download Resume Button */}
         <a
           href="https://drive.google.com/uc?export=download&id=1ixXq21oK-zml7F34RZXO8S2BgbZ2nnyn"
-          className="mt-8 px-6 py-3 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600 transition"
+          className="mt-8 px-6 py-3 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600 transition">
           Download Resume
         </a>
       </div>
